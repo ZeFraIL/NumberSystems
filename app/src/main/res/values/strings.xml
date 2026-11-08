@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Number Systems</string>
+    <string name="tab_converter">Converter</string>
+    <string name="tab_calculator">Calculator</string>
+    <string name="select_system">Select numeral system:</string>
+    <string name="enter_number">Enter number (1–3999):</string>
+    <string name="enter_expression">Enter expression (e.g., XII + IX):</string>
+    <string name="btn_all_types">All Types</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="results_title">Results in all systems:</string>
+    <string name="bin_label">Binary (2)</string>
+    <string name="oct_label">Octal (8)</string>
+    <string name="dec_label">Decimal (10)</string>
+    <string name="hex_label">Hexadecimal (16)</string>
+    <string name="roman_label">Roman Numerals</string>
+    <string name="gematria_label">Gematria (Hebrew)</string>
+    <string name="range_hint">Valid number range: 1 to 3999</string>
+    <string name="default_placeholder">—</string>
+    <string name="copy_text">Copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="btn_done">Done</string>
+    <string name="close_text">Close</string>
+</resources>
